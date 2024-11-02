@@ -1,0 +1,6 @@
+@SERVIDOR_MAUI_HostAddress = http://localhost:5231
+
+GET {{SERVIDOR_MAUI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

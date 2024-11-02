@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SERVIDOR_MAUI.props" />
+</Project>
